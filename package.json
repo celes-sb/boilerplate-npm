@@ -1,4 +1,9 @@
 {
+	"author": "Celeste Soledad Bareiro",
+	"description": "Node.JS practice from freeCodeCamp curriculum. Unit: managing packages with npm",
+	"keywords": ["freecodecamp", "nodejs", "npm"],
+	"license": "MIT",
+	"version": "10.8.2",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
